@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-image: url(img/image\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    width: 1300px;
+    height: 1024px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0px 0px 0px ;
+    color: white;
+}
+.nav .img1{
+    width: 50px;
+    height: 50px;
+    margin: 2px 30px 0px 40px;
+}
+.nav .img2{
+    width: 243px;
+    height: 50px;
+    box-shadow: 0px 4px 4px #DAD3FF;
+}
+.nav .img4{
+    width: 20px;
+    height: 12px;
+    angle: 180 deg;
+    margin: 25px 0px 0px 5px;
+}
+.nav .h3{
+    width: 260px;
+    height: 22px;
+    text-shadow: 0px 4px 4px #000000E0;
+}
+.nav .h4{
+    width: 200px;
+    height: 24px;
+    text-shadow: 0px 4px 4px #000000E0;
+}
+.nav .h4:hover{
+    color: yellow;
+}
+.nav .h3:hover{
+    color: yellow;
+}
+.nav .h4{
+    margin: 20px -20px 0px 440px;
+}
+.nav .h3{
+    margin: 20px 0px 0px 20px;
+}
+.dadbox{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #FFC611;
+    width: 604px;
+    height: 103px;
+    border-radius: 50px 50px 50px 50px;
+    border: 11px solid #5A5555 
+}
+.box .h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 4px 3px #0047FF;
+}
+.dadbox2{
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    box-shadow: 8px 7px 20px #FFFFFF;
+    background-color: #1F1F1F;
+}
+.box2 h1{
+
+    text-shadow: 0px 4px 4px #FFC200;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.section2{
+    background-color: black;
+    width: 1336px;
+    height: 1042px;
+}
+.div2{
+    font-family: "Roboto", sans-serif;
+    color: #5A5555;
+    display: flex;
+    justify-content: center;
+    text-shadow: 0px 4px 4px #FFFFFF;
+    font-size: 30px
+}
+.dad11{
+    font-family: "Roboto", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.dad11 .h{
+    width: 600px;
+    height: 140px;
+    margin: 10px 0px 0px 60px;
+}
+.div3 .h33{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin: -60px 0px 0px 700px;
+    width: 200px;
+    height: 58px;
+    background-color: #FFC200;
+    box-shadow: 0px 7px 12.8px #FFFFFF;
+}
+.div3 .h33:hover{
+    color: white;
+    background-color: #535353;
+}
+.dad5{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.div4 .d33{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    width: 200px;
+    height: 58px;
+    background-color: #FFC200;
+    box-shadow: 0px 7px 12.8px #FFFFFF;
+    margin: -100px 0px 0px 100px;
+}
+.div4 .d33:hover{
+    color: white;
+    background-color: #535353;
+}
+.final1{
+    display: flex;
+    justify-content: start;
+    margin: 0px 900px 0px -50px;
+}
+.final{
+    width: 1341px;
+    height: 158px;
+    background-color: #FFC611;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final .img5{
+    width: 45px;
+    height: 45px;
+    margin: 0px 30px 0px 0px ;
+}
+.final .img6{
+    width: 44px;
+    height: 43.73px;
+    margin: 0px 30px 0px 0px ;
+}
+.final .img7{
+    width: 44px;
+    height: 43.73px;
+}
